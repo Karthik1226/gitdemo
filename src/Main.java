@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("Git return");
         System.out.println("Git opens");
+        System.out.println("Git closed");
     }
 }
